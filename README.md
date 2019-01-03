@@ -7,17 +7,17 @@ After logging in with the right credentials (u: username p: pass), it will navig
 
 # Steps to setup project
 
-Create Angular CLI project
+Download project and open folder in desired IDE (VSCode is the best option)
 
-Install below mentioned packages
+Open terminal (Ctrl ~) and install packages mentioned below:
 
-i. npm install --save @ng-idle/core
+1) npm install --save @ng-idle/core
 
-ii. npm install --save @ng-idle/keepalive
+2) npm install --save @ng-idle/keepalive
 
-iii. npm install --save bootstrap@4.0.0-beta
+3) npm install --save bootstrap@4.0.0-beta
 
-iv. npm install --save @ng-bootstrap/ng-bootstrap
+4) npm install --save @ng-bootstrap/ng-bootstrap
 
 Update the angular.json to include Bootstrap CSS
 
