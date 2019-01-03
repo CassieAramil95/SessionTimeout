@@ -1,6 +1,8 @@
 # SessionTimeout
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0-rc.4.
+
+
 After logging in with the right credentials (u: username p:pass), it will navigate you to the home page where the session timeout logic lives. After being idle for 10 seconds, a pop up shows up giving you the option of continuing or logging out. If you don't take any action it will log you out. 
 
 ## Development server
