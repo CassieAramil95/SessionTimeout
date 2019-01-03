@@ -7,7 +7,7 @@ After logging in with the right credentials (u: username p: pass), it will navig
 
 # Steps to setup project
 
-Download project and open folder in desired IDE (VSCode is the best option)
+Download project, unzip and open folder in desired IDE (VSCode is the best in my opinion)
 
 Open terminal (Ctrl ~) and install packages mentioned below:
 
