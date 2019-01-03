@@ -19,9 +19,9 @@ iii. npm install --save bootstrap@4.0.0-beta
 
 iv. npm install --save @ng-bootstrap/ng-bootstrap
 
-Update the angular-cli.json to include Bootstrap CSS
+Update the angular.json to include Bootstrap CSS
 
-"styles": [ "styles.css", "../node_modules/bootstrap/dist/css/bootstrap.min.css" ],
+ "styles": ["src/styles.css", "node_modules/bootstrap/dist/css/bootstrap.min.css"],
 
 ## Development server
 
